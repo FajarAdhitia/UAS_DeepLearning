@@ -1,7 +1,7 @@
 # **UAS Deep Learning**
 
 ## **Proyek Klasifikasi Komponen Elektronik**
-Implementasi Deep Learning dengan CNN KERAS untuk Klasifikasi Komponen Elektronik di Lab Teknik Universitas Bengkulu
+Implementasi Deep Learning dengan EfficientNetV2 untuk Klasifikasi Komponen Elektronik di Lab Teknik Universitas Bengkulu
 
 ---
 
