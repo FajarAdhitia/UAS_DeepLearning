@@ -13,7 +13,7 @@ Implementasi Deep Learning dengan CNN KERAS untuk Klasifikasi Komponen Elektroni
 ---
 
 ## **Latar Belakang**
-Pengelolaan komponen elektronik di laboratorium merupakan salah satu **tantangan utama** dalam mendukung kegiatan praktikum dan penelitian di bidang teknik.  
+Pengelolaan komponen elektronik di laboratorium merupakan salah satu **tantangan utama** dalam mendukung kegiatan praktikum dan penelitian di fakkultas teknik universitas bengkulu.  
 Kesulitan dalam mengenali dan mengelompokkan komponen seperti:  
 - **Resistor**  
 - **Kapasitor**  
