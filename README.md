@@ -1,9 +1,9 @@
 # UAS DEEP LEARNING
 # Anggota
-Gopi Mahendra (G1A021005) dan Syakira Az Zahra (G1A021057)
+Revaldo Relinsyah (G1A021060), Parulian Agustinus Hutapea (G1A021064) dan Fajar Adhitia Suwandhi (G1A021086)
 # Judul Proyek
-Klasifikasi Jenis Sampah Menggunakan EfficientNetV2B0
+Implementasi Deep Learning dengan CNN KERAS untuk Klasifikasi Komponen Elektronik Lab Teknik Universitas Bengkulu
 # Latar Belakang
-Pengelolaan sampah merupakan salah satu isu utama di Indonesia akibat pertumbuhan penduduk yang pesat dan kurangnya sistem pengelolaan yang memadai. Hal ini menyebabkan penumpukan sampah, pencemaran lingkungan, serta peningkatan risiko kesehatan masyarakat.
+Pengelolaan komponen elektronik di laboratorium merupakan salah satu tantangan utama dalam mendukung kegiatan praktikum dan penelitian di bidang teknik. Kesulitan dalam mengenali dan mengelompokkan komponen seperti resistor, kapasitor, dan transistor seringkali menghambat efisiensi kerja di laboratorium. Selain itu, kesalahan dalam identifikasi komponen dapat menyebabkan perancangan rangkaian yang tidak tepat, sehingga memengaruhi hasil eksperimen.
 
-Pemisahan jenis sampah, seperti plastik, organik, dan kertas, menjadi langkah penting untuk mendukung proses daur ulang. Namun, metode manual yang ada cenderung tidak efisien dan rentan terhadap kesalahan manusia.
+Proses klasifikasi komponen elektronik secara manual membutuhkan ketelitian tinggi dan memakan waktu, sehingga rentan terhadap kesalahan manusia. Dalam era modern ini, diperlukan sebuah sistem otomatis yang mampu melakukan identifikasi komponen secara cepat dan akurat untuk mendukung kegiatan pembelajaran dan penelitian di laboratorium teknik.
